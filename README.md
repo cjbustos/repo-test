@@ -1,3 +1,3 @@
 # repo-test
 
-# Este es un repo de prueba
+# Este es un proyecto de prueba para utilizar Git
