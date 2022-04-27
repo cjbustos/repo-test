@@ -1,2 +1,2 @@
-console.log('First Repo!')
-console.log('First Repo!')
+var title = 'Javascript for Dummies'
+document.write('<h1>' + title + '</h1>')
